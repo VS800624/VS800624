@@ -37,7 +37,7 @@
 - Developed the frontend of the ecommerce website with cart functionality and responsive UI using HTML,Tailwind CSS, and React.<br>
 - Implemented dynamic product listing and state management to ensure smooth user interactions and real-time
 cart updates.
-  <a href="https://nivzone.onrender.com/">Web-Design-Agencypage template</a>
+  <a href="https://nivzone.onrender.com/">Nivzone(An ecommerce website)</a>
 <br>
 
 ## 📊 My Github Stats
