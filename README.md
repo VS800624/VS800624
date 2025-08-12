@@ -31,11 +31,13 @@
 ### ✈️ Flight Booking & Travel Website (UI Only) 
   - Responsive and modern UI design for a flight booking and travel platform.
   - Implemented **conditional rendering** for dynamic UI elements and improved user interaction. <br>
-  [**wispyDeals.com**](https://wispydeals.com/)
+  [**rivaltrip.com**](https://www.rivaltrip.com/)
 
-### 💼 Web Design Agency Website (UI Only)  
-- Creative and modern UI design for a web design agency's service website.<br>
-  <a href="https://yograj2024.github.io/-Web-Design-Agencypage/">Web-Design-Agencypage template</a>
+### 💼 Ecommerce Website (UI Only)  
+- Developed the frontend of the ecommerce website with cart functionality and responsive UI using HTML,Tailwind CSS, and React.<br>
+- Implemented dynamic product listing and state management to ensure smooth user interactions and real-time
+cart updates.
+  <a href="https://nivzone.onrender.com/">Web-Design-Agencypage template</a>
 <br>
 
 ## 📊 My Github Stats
