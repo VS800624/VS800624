@@ -4,7 +4,7 @@
 - 🌱 Learning & improving **SQL and Laravel** skills
 - 💬 Ask me about **React, Laravel, TailwindCSS, Javascript, SQL**
 - 🚀 Love building clean, responsive, and user-friendly web applications
-- 📫 How to rach me &nbsp;&nbsp;: &nbsp;&nbsp;vishalsingh800624@gmail.com
+- 📫 How to reach me &nbsp;&nbsp;: &nbsp;&nbsp;vishalsingh800624@gmail.com
 <!-- - 🔗 Connect with me&nbsp; : &nbsp; <a href="https://www.linkedin.com/in/yograj-singh-750a07315" target="_blank" >LinkedIn</a> -->
 
 <br>
@@ -42,6 +42,6 @@ cart updates.
 
 ## 📊 My Github Stats
 <p>
-  <img src="https://streak-stats.demolab.com/?user=yograj2024&show_icons=true" alt="Yograj's GitHub stats" />  &nbsp; &nbsp; &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yograj2024" alt="Yograj's GitHub stats"  />
+  <img src="https://streak-stats.demolab.com/?user=VS80024&show_icons=true" alt="Vishal's GitHub stats" />  &nbsp; &nbsp; &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VS80024" alt="Vishal's GitHub stats"  />
 </p>
