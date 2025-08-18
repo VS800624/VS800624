@@ -42,6 +42,6 @@ cart updates.
 
 ## 📊 My Github Stats
 <p>
-  <img src="https://streak-stats.demolab.com/?user=VS80024&show_icons=true" alt="Vishal's GitHub stats" />  &nbsp; &nbsp; &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VS80024" alt="Vishal's GitHub stats"  />
+  <img src="https://streak-stats.demolab.com/?user=VS800624&show_icons=true" alt="Vishal's GitHub stats" />  &nbsp; &nbsp; &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VS800624" alt="Vishal's GitHub stats"  />
 </p>
