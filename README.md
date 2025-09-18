@@ -42,7 +42,10 @@ cart updates.
 
 ## 📊 My Github Stats
 <p>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=" alt="GitHub Streak" /></a>  &nbsp; &nbsp; &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VS800624&token=${{ secrets.GIT_TOKEN }}
-  "  />
+ <!-- Streak stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VS800624&show_icons=true" alt="Vishal's GitHub streak" />
+&nbsp; &nbsp; &nbsp;
+<!-- GitHub stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=VS800624&show_icons=true" alt="Vishal's GitHub stats" />
+
 </p>
