@@ -24,7 +24,8 @@
 
 ### About DevSoft Tech HMS 🏥
 - It is a small HMS (Hospital Management System) startup.
-- Focused  to creating innovative and efficient healthcare web solutions <br> that improve patient care and streamline hospital management. 
+- Focused  to creating innovative and efficient healthcare web solutions <br> that improve patient care and streamline hospital management.
+- They also build travel websites and their pages, focusing on easy navigation, <br> responsive design, and attractive visuals for an enjoyable user experience
   <br> <br> <br>
 ## 🌐 Live Projects Links
 
@@ -34,7 +35,7 @@
   [**rivaltrip.com**](https://www.rivaltrip.com/)
 
 ### 💼 Ecommerce Website (UI Only)  
-- Developed the frontend of the ecommerce website with cart functionality and responsive UI using HTML,Tailwind CSS, and React.<br>
+- Developed the frontend of the ecommerce website with search, cart functionality and responsive UI using HTML,Tailwind CSS, and React.<br>
 - Implemented dynamic product listing and state management to ensure smooth user interactions and real-time
 cart updates.
   <a href="https://nivzone.onrender.com/">Nivzone(An ecommerce website)</a>
