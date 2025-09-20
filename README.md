@@ -5,7 +5,7 @@
 - 💬 Ask me about **React, Laravel, TailwindCSS, Javascript, SQL**
 - 🚀 Love building clean, responsive, and user-friendly web applications
 - 📫 How to reach me &nbsp;&nbsp;: &nbsp;&nbsp;vishalsingh800624@gmail.com
-<!-- - 🔗 Connect with me&nbsp; : &nbsp; <a href="https:/linkedin.com/in/vishal-singh-511630299" target="_blank" >LinkedIn</a> -->
+- 🔗 Connect with me&nbsp; : &nbsp; <a href="https:/linkedin.com/in/vishal-singh-511630299" target="_blank" >LinkedIn</a>
 
 <br>
 <h1> 🚀 Languages and Tools:</h1>
@@ -47,7 +47,7 @@ cart updates.
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=VS800624&show_icons=true" alt="Vishal's GitHub streak" />
 &nbsp; &nbsp; &nbsp;
 <!-- GitHub stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=VS800624&show_icons=true" alt="Vishal's GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yograj2024" alt="Yograj's GitHub stats"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yograj2024" alt="Yograj's GitHub stats"  />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=VS800624&show_icons=true" alt="Vishal's GitHub stats" /> -->
 
 </p>
