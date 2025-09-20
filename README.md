@@ -48,5 +48,6 @@ cart updates.
 &nbsp; &nbsp; &nbsp;
 <!-- GitHub stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=VS800624&show_icons=true" alt="Vishal's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yograj2024" alt="Yograj's GitHub stats"  />
 
 </p>
