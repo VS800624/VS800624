@@ -1,7 +1,7 @@
 <h1 align="center">Hii  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Vishal</h1>
 
-- 🔹 Mainly a Frontend Developer but currently working as Full-Stack at **DevSoft Tech HMS**
-- 🌱 Learning & improving **SQL and Laravel** skills
+- 🔹 Currently working as Frontend Intern at  **DevSoft Tech HMS**.
+- 🌱 Actively learning and improving my skills in modern web technologies like React, TailwindCSS, JavaScript, and Laravel.
 - 💬 Ask me about **React, Laravel, TailwindCSS, Javascript, SQL**
 - 🚀 Love building clean, responsive, and user-friendly web applications
 - 📫 How to reach me &nbsp;&nbsp;: &nbsp;&nbsp;vishalsingh800624@gmail.com
