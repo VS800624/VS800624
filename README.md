@@ -2,7 +2,7 @@
 
 - 🔹 Currently working as Frontend Intern at  **DevSoft Tech HMS**.
 - 🌱 Actively learning and improving my skills in modern web technologies like React, TailwindCSS, JavaScript, and Laravel.
-- 💬 Ask me about **React, Laravel, TailwindCSS, Javascript, SQL**
+- 💬 Ask me about **React, Laravel, TailwindCSS, Javascript.**
 - 🚀 Love building clean, responsive, and user-friendly web applications
 - 📫 How to reach me &nbsp;&nbsp;: &nbsp;&nbsp;vishalsingh800624@gmail.com
 - 🔗 Connect with me&nbsp; : &nbsp; <a href="https:/linkedin.com/in/vishal-singh-511630299" target="_blank" >LinkedIn</a>
