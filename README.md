@@ -1,6 +1,6 @@
 <h1 align="center">Hii  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Vishal</h1>
 
-- 🔹 Currently working as Frontend Intern at  **DevSoft Tech HMS**.
+- 🔹 Completed almost 1 year internship as Frontend Intern at  **DevSoft Tech HMS**.
 - 🌱 Actively learning and improving my skills in modern web technologies like React, TailwindCSS, JavaScript, and Laravel.
 - 💬 Ask me about **React, Laravel, TailwindCSS, Javascript.**
 - 🚀 Love building clean, responsive, and user-friendly web applications
