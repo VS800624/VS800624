@@ -47,7 +47,7 @@ cart updates.
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=VS800624&show_icons=true" alt="Vishal's GitHub streak" />
 &nbsp; &nbsp; &nbsp;
 <!-- GitHub stats -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VS800624" alt="Yograj's GitHub stats"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VS800624" alt="Vishal's GitHub stats"  />
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=VS800624&show_icons=true" alt="Vishal's GitHub stats" /> -->
 
 </p>
