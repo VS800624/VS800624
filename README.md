@@ -15,6 +15,10 @@
  &nbsp; <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/>&nbsp;
  &nbsp; <img src="https://skillicons.dev/icons?i=tailwindcss" alt="tailwind" width="40" height="40"/> &nbsp;
  &nbsp; <img src="https://skillicons.dev/icons?i=js"  alt="javascript"  width="40" height="40"/>&nbsp;
+ &nbsp; <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40"/> &nbsp;
+ &nbsp; <img src="https://skillicons.dev/icons?i=express" width="40" alt="Express.js"/> &nbsp;
+ &nbsp; <img src="https://skillicons.dev/icons?i=mongodb" width="40" alt="MongoDB"/> &nbsp;
+ &nbsp; <img src="https://skillicons.dev/icons?i=npm" width="40" alt="Mongoose (via npm)"/> &nbsp;
  &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> &nbsp;
  &nbsp; <img src="https://skillicons.dev/icons?i=mysql"  alt="sql"  width="40" height="40"/>&nbsp;
  &nbsp; <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>&nbsp;&nbsp;
