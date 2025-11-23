@@ -36,7 +36,7 @@
 ### ✈️ Flight Booking & Travel Website (UI Only) 
   - Responsive and modern UI design for a flight booking and travel platform.
   - Implemented **conditional rendering** for dynamic UI elements and improved user interaction. <br>
-  <a href="[https://nivzone.onrender.com/](https://rivaltrip.netlify.app/)">rivaltrip(An tour and travel website)</a>
+  <a href="https://rivaltrip.netlify.app/">rivaltrip(An tour and travel website)</a>
 
 ### 💼 Ecommerce Website (UI Only)  
 - Developed the frontend of the ecommerce website with search, cart functionality and responsive UI using HTML,Tailwind CSS, and React.<br>
