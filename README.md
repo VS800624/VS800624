@@ -6,7 +6,7 @@
 
 - 🔹 Completed nearly **1 year internship** as a **Frontend Developer Intern** at **DevSoft Tech HMS**
 - 🌱 Actively learning modern web technologies: **React, Tailwind CSS, JavaScript, Node.js, Laravel**
-- 💬 Ask me about **JavaScript, React, Tailwind CSS, Laravel**
+- 💬 Ask me about **JavaScript, React, Tailwind CSS**
 - 🚀 Passionate about building **clean, responsive, and user-friendly web applications**
 - 📫 Reach me at: **vishalsingh800624@gmail.com**
 - 🔗 Connect with me:  
@@ -61,6 +61,5 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=VS800624&theme=github-dark&hide_border=true" />
-  <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VS800624&layout=compact&theme=github_dark" />
 </p>
