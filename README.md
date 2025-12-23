@@ -72,8 +72,9 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=vs800624&layout=compact&theme=github_dark" 
     alt="Top Languages" 
   />
+  <br/>
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=vs800624&show_icons=true&theme=github_dark" 
+    src="https://github-readme-stats.vercel.app/api?username=vs800624&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" 
     alt="GitHub Stats" 
   />
 </p>
