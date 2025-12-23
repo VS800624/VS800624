@@ -64,6 +64,17 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=VS800624&theme=github-dark&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VS800624&layout=compact&theme=github_dark" />
+  <img 
+    src="https://streak-stats.demolab.com?user=vs800624&theme=github-dark&hide_border=true" 
+    alt="GitHub Streak Stats" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vs800624&layout=compact&theme=github_dark" 
+    alt="Top Languages" 
+  />
 </p>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=vs800624&theme=github-dark)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vs800624&show_icons=true&theme=github_dark)
+
