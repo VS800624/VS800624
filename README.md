@@ -44,16 +44,20 @@
 ## 🌐 Live Projects
 
 ### ✈️ Flight Booking & Travel Website (UI Only)
-- Responsive UI for a flight booking and travel platform
-- Used **conditional rendering** and reusable components  
+- Developed a fully responsive tour and travel website UI using HTML, Tailwind CSS, and React.
+- Designed with a modern user interface to enhance user engagement and provide seamless navigation.
+- Integrated dynamic components for destination details, gallery, and travel tips to offer an immersive browsing. 
 🔗 https://rivaltrip.netlify.app/
 
 ---
 
-### 🛒 Ecommerce Website (UI Only)
-- Frontend ecommerce application using **React & Tailwind CSS**
-- Features: product listing, search, cart, and responsive design  
-🔗 https://nivzone.onrender.com/
+### 🤝 DevTinder – Developer Networking Platform (Full Stack)
+- Built a full-stack developer networking platform using **React (Vite)** and **Tailwind CSS**
+- Developed backend APIs using **Node.js** and **Express.js**
+- Implemented **authentication**, **protected routes**, and **Redux Toolkit** for state management
+- Features include developer feed, connection requests (accept/reject), and profile management
+- Integrated **MongoDB** with **Mongoose** for database operations and CRUD functionality  
+🔗 http://13.60.28.192
 
 ---
 
