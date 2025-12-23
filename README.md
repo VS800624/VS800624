@@ -47,7 +47,7 @@
 - Developed a fully responsive tour and travel website UI using HTML, Tailwind CSS, and React.
 - Designed with a modern user interface to enhance user engagement and provide seamless navigation.
 - Integrated dynamic components for destination details, gallery, and travel tips to offer an immersive browsing. 
-🔗 https://rivaltrip.netlify.app/
+- 🔗 https://rivaltrip.netlify.app/
 
 ---
 
@@ -57,7 +57,7 @@
 - Implemented **authentication**, **protected routes**, and **Redux Toolkit** for state management
 - Features include developer feed, connection requests (accept/reject), and profile management
 - Integrated **MongoDB** with **Mongoose** for database operations and CRUD functionality  
-🔗 http://13.60.28.192
+- 🔗 http://13.60.28.192
 
 ---
 
