@@ -72,9 +72,10 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=vs800624&layout=compact&theme=github_dark" 
     alt="Top Languages" 
   />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=vs800624&show_icons=true&theme=github_dark" 
+    alt="GitHub Stats" 
+  />
 </p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=vs800624&theme=github-dark)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vs800624&show_icons=true&theme=github_dark)
 
