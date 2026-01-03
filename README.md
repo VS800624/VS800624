@@ -57,7 +57,7 @@
 - Implemented **authentication**, **protected routes**, and **Redux Toolkit** for state management
 - Features include developer feed, connection requests (accept/reject), and profile management
 - Integrated **MongoDB** with **Mongoose** for database operations and CRUD functionality  
-- 🔗 http://13.60.28.192
+- 🔗 https://devtinder619.netlify.app
 
 ---
 
