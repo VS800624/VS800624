@@ -63,24 +63,9 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=vs800624&theme=github-dark&hide_border=true" 
-    alt="GitHub Streak Stats" 
-    height="165"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vs800624&layout=compact&theme=github_dark" 
-    alt="Top Languages" 
-    height="165"
-  />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=vs800624&theme=github-dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vs800624&layout=compact&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vs800624&show_icons=true&theme=github_dark)
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=vs800624&show_icons=true&theme=github_dark" 
-    alt="GitHub Stats" 
-  />
-</p>
 
 
