@@ -5,7 +5,7 @@
 ---
 
 - 🔹 Completed nearly **1 year internship** as a **Frontend Developer Intern** at **DevSoft Tech HMS**
-- 🌱 Actively learning modern web technologies: **React, Tailwind CSS, JavaScript, Node.js, Laravel**
+- 🌱 Actively learning modern web technologies: **React, Tailwind CSS, JavaScript, Node.js, Expressjs, MongoDB Laravel**
 - 💬 Ask me about **JavaScript, React, Tailwind CSS**
 - 🚀 Passionate about building **clean, responsive, and user-friendly web applications**
 - 📫 Reach me at: **vishalsingh800624@gmail.com**
