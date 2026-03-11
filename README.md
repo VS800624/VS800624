@@ -5,7 +5,6 @@
 <p align="center">
 Full Stack Developer passionate about building modern web applications with the MERN stack.
 </p>
----
 
 ## 🚀 About Me
 
