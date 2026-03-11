@@ -14,8 +14,7 @@ Full Stack Developer passionate about building modern web applications with the 
 - 🚀 Love creating **clean, responsive, and user-friendly interfaces**
 - 📫 Reach me at: **vishalsingh800624@gmail.com**
 
-🔗 **Connect with me:**  
-<a href="https://www.linkedin.com/in/vishal-singh-511630299" target="_blank">LinkedIn</a>
+🔗 **Connect with me:** <a href="https://www.linkedin.com/in/vishal-singh-511630299" target="_blank">LinkedIn</a>
 
 
 ---
