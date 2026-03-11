@@ -43,9 +43,9 @@
 - Built the frontend using **React** and **Tailwind CSS** for a modern and responsive user interface
 - Developed backend APIs using **Node.js** and **Express.js**
 - Integrated **MongoDB** for managing destination data and website content
-- Features include **destination pages, image galleries, travel tips, and admin content management**
-🔗 **Frontend Repo:** https://github.com/VS800624/Rivaltrip
-🔗 **Backend Repo:** https://github.com/VS800624/rivalTrip_backend 
+- Features include **destination pages, image galleries, travel tips, and admin content management** <br>
+🔗 **Frontend Repo:** https://github.com/VS800624/Rivaltrip <br>
+🔗 **Backend Repo:** https://github.com/VS800624/rivalTrip_backend <br>
 🔗 **Live Demo:** https://rivaltrip.netlify.app
 
 ---
@@ -55,9 +55,9 @@
 - Developed backend APIs using **Node.js** and **Express.js**
 - Implemented **authentication**, **protected routes**, and **Redux Toolkit** for state management
 - Features include developer feed, connection requests (accept/reject), and profile management
-- Integrated **MongoDB** with **Mongoose** for database operations and CRUD functionality  
-🔗 **Frontend Repo:** https://github.com/VS800624/devTinder_frontend 
-🔗 **Backend Repo:** https://github.com/VS800624/devtinder-backend  
+- Integrated **MongoDB** with **Mongoose** for database operations and CRUD functionality <br>
+🔗 **Frontend Repo:** https://github.com/VS800624/devTinder_frontend  <br>
+🔗 **Backend Repo:** https://github.com/VS800624/devtinder-backend   <br>
 🔗 **Live Demo:** https://github.com/VS800624/devTinder_backend
 
 ---
