@@ -60,7 +60,7 @@ Full Stack Developer passionate about building modern web applications with the 
 - Integrated **MongoDB** with **Mongoose** for database operations and CRUD functionality <br>
 🔗 **Frontend Repo:** https://github.com/VS800624/devTinder_frontend  <br>
 🔗 **Backend Repo:** https://github.com/VS800624/devtinder-backend   <br>
-🔗 **Live Demo:** devtinder619.netlify.app
+🔗 **Live Demo:** https://devtinder619.netlify.app
 
 ---
 
