@@ -8,7 +8,7 @@
 
 - 💻 MERN Stack Developer passionate about building modern web applications
 - ⚙️ Skilled in **React, JavaScript, Tailwind CSS, Node.js, Express.js, and MongoDB**
-- 🌱 Currently exploring backend development and improving my full-stack development skills
+- 🌱 Currently building full-stack applications and improving backend development skills
 - 🚀 Love creating **clean, responsive, and user-friendly interfaces**
 - 📫 Reach me at: **vishalsingh800624@gmail.com**
 
@@ -44,7 +44,9 @@
 - Developed backend APIs using **Node.js** and **Express.js**
 - Integrated **MongoDB** for managing destination data and website content
 - Features include **destination pages, image galleries, travel tips, and admin content management**
-- 🔗 Live Demo: https://rivaltrip.netlify.app
+🔗 **Frontend Repo:** https://github.com/VS800624/Rivaltrip
+🔗 **Backend Repo:** https://github.com/VS800624/rivalTrip_backend 
+🔗 **Live Demo:** https://rivaltrip.netlify.app
 
 ---
 
@@ -54,7 +56,9 @@
 - Implemented **authentication**, **protected routes**, and **Redux Toolkit** for state management
 - Features include developer feed, connection requests (accept/reject), and profile management
 - Integrated **MongoDB** with **Mongoose** for database operations and CRUD functionality  
-- 🔗 https://devtinder619.netlify.app
+🔗 **Frontend Repo:** https://github.com/VS800624/devTinder_frontend 
+🔗 **Backend Repo:** https://github.com/VS800624/devtinder-backend  
+🔗 **Live Demo:** https://github.com/VS800624/devTinder_backend
 
 ---
 
