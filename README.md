@@ -4,13 +4,17 @@
 
 ---
 
-- 🔹 Completed nearly **1 year internship** as a **Frontend Developer Intern** at **DevSoft Tech HMS**
-- 🌱 Actively learning modern web technologies: **React, Tailwind CSS, JavaScript, Node.js, Expressjs, MongoDB Laravel**
-- 💬 Ask me about **JavaScript, React, Tailwind CSS**
-- 🚀 Passionate about building **clean, responsive, and user-friendly web applications**
+## 🚀 About Me
+
+- 💻 MERN Stack Developer passionate about building modern web applications
+- ⚙️ Skilled in **React, JavaScript, Tailwind CSS, Node.js, Express.js, and MongoDB**
+- 🌱 Currently exploring backend development and improving my full-stack development skills
+- 🚀 Love creating **clean, responsive, and user-friendly interfaces**
 - 📫 Reach me at: **vishalsingh800624@gmail.com**
-- 🔗 Connect with me:  
-  <a href="https://www.linkedin.com/in/vishal-singh-511630299" target="_blank">LinkedIn</a>
+
+🔗 **Connect with me:**  
+<a href="https://www.linkedin.com/in/vishal-singh-511630299" target="_blank">LinkedIn</a>
+
 
 ---
 
@@ -32,22 +36,15 @@
   <img src="https://skillicons.dev/icons?i=postman" width="40"/>
 </p>
 
----
+## 🚀 Featured Projects
 
-## 🏥 About DevSoft Tech HMS
-- A startup focused on **Hospital Management Systems (HMS)**
-- Builds efficient healthcare web solutions to improve patient care
-- Also develops **travel and tourism websites** with responsive and modern UI
-
----
-
-## 🌐 Live Projects
-
-### ✈️ Flight Booking & Travel Website (UI Only)
-- Developed a fully responsive tour and travel website UI using HTML, Tailwind CSS, and React.
-- Designed with a modern user interface to enhance user engagement and provide seamless navigation.
-- Integrated dynamic components for destination details, gallery, and travel tips to offer an immersive browsing. 
-- 🔗 https://rivaltrip.netlify.app/
+### ✈️ Flight Booking & Travel Website
+- Developed a **full-stack tour and travel website** with an **admin panel** to manage destinations and travel content
+- Built the frontend using **React** and **Tailwind CSS** for a modern and responsive user interface
+- Developed backend APIs using **Node.js** and **Express.js**
+- Integrated **MongoDB** for managing destination data and website content
+- Features include **destination pages, image galleries, travel tips, and admin content management**
+- 🔗 Live Demo: https://rivaltrip.netlify.app
 
 ---
 
