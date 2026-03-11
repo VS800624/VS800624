@@ -2,6 +2,9 @@
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />, I'm Vishal
 </h1>
 
+<p align="center">
+Full Stack Developer passionate about building modern web applications with the MERN stack.
+</p>
 ---
 
 ## 🚀 About Me
