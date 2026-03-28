@@ -9,7 +9,7 @@ Full Stack Developer passionate about building modern web applications with the 
 ## 🚀 About Me
 
 - 💻 MERN Stack Developer passionate about building modern web applications
-- ⚙️ Skilled in **React, JavaScript, Tailwind CSS, Node.js, Express.js, and MongoDB**
+- ⚙️ Skilled in **Reactjs, JavaScript, Tailwind CSS, Node.js, Express.js, and MongoDB**
 - 🌱 Currently building full-stack applications and improving backend development skills
 - 🚀 Love creating **clean, responsive, and user-friendly interfaces**
 - 📫 Reach me at: **vishalsingh800624@gmail.com**
